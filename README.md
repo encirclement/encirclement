@@ -6,7 +6,6 @@ Eva 🌨️<br />
 <pre>
 - Coddes With:    C#, JavaScript, PHP, HTML, CSS, Python, Some C++
 - Interests:      GO, Networking, low-level programming
-- Discord:        enes#5555 [892834104947650591]
 - Website:        https://e.rip/mysnipes ~ https://e.rip/evadiscord
 </pre>
 
