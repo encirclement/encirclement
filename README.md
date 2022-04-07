@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+Eva 🌨️<br />
+<img src="https://komarev.com/ghpvc/?username=encirclement" />
+</h1>
 
-<!--
-**encirclement/encirclement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+- Coddes With:    C#, JavaScript, PHP, HTML, CSS, Python, Some C++
+- Interests:      GO, Networking, low-level programming
+- Discord:        enes#5555 [892834104947650591]
+- Website:        https://e.rip/mysnipes ~ https://e.rip/evadiscord
+</pre>
 
-Here are some ideas to get you started:
+<p align="center">
+  
+<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=encirclement&layout=compact&theme=light" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api?username=encirclement&show_icons=true&include_all_commits=true&theme=light" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
