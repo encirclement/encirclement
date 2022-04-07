@@ -3,10 +3,10 @@ Eva 🌨️<br />
 <img src="https://komarev.com/ghpvc/?username=encirclement" />
 </h1>
 
-<pre>
-- Coddes With:    C#, JavaScript, PHP, HTML, CSS, Python, Some C++
-- Interests:      GO, Networking, low-level programming
-- Website:        https://e.rip/mysnipes ~ https://e.rip/evadiscord
+<pre align="center">
+Codes With: C#, JavaScript, PHP, HTML, CSS, Python, Some C++
+Interests: GO, Networking, low-level programming
+Website: https://e.rip/mysnipes ~ https://e.rip/evadiscord
 </pre>
 
 <p align="center">
