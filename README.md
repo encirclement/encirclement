@@ -1,5 +1,5 @@
 <h1 align="center">
-Eva 🌨️<br />
+eva ✨<br />
 <img src="https://komarev.com/ghpvc/?username=encirclement" />
 </h1>
 
