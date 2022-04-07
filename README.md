@@ -11,7 +11,7 @@ Website: https://e.rip/mysnipes ~ https://e.rip/evadiscord
 
 <p align="center">
   
-<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=encirclement&layout=compact&theme=light?update" />
 <img height= "160" src="https://github-readme-stats.vercel.app/api?username=encirclement&show_icons=true&include_all_commits=true&theme=light" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=encirclement&layout=compact&theme=light?update" />
 
 </p>
